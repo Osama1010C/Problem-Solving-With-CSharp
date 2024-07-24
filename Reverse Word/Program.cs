@@ -1,4 +1,4 @@
-﻿namespace Reverse_Words
+﻿namespace Reverse_Word
 {
     internal class Program
     {
@@ -10,15 +10,15 @@
         }
         private static string Reverse(string s)
         {
-            string result = "";          
-            
-            for(int i = s.Length-1; i >=0; i--)
+            string result = "";
+
+            for (int i = s.Length - 1; i >= 0; i--)
                 result += s[i];
             string[] parts = result.Split(' ');
             result = "";
-            for(int i = parts.Length-1; i >= 0; i--)
+            for (int i = parts.Length - 1; i >= 0; i--)
             {
-                if(i != 0) result += parts[i]+" ";
+                if (i != 0) result += parts[i] + " ";
                 else result += parts[i];
             }
             return result;

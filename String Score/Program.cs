@@ -13,7 +13,7 @@
         private static void StringScore(string s)
         {
             int score = 0;
-            for(int i =0; i< s.Length; i++)
+            for (int i = 0; i < s.Length; i++)
             {
                 if (s[i] == 'V')
                 {
@@ -51,10 +51,10 @@
         static string X(string s, int index)
         {
             if (index == s.Length - 1) return s;
-            
+
             string newString = null;
             int pos = index + 1;
-            for(int i = 0; i < s.Length; i++)
+            for (int i = 0; i < s.Length; i++)
             {
                 if (i == pos) continue;
                 else newString += s[i];
@@ -64,12 +64,12 @@
         static string Y(string s, int index)
         {
             if (index == s.Length - 1) return s;
-            
+
             string newString = null;
             int pos = index + 1;
-            
+
             newString = X(s, index);
-            newString += s[index+1];
+            newString += s[index + 1];
             return newString;
         }
         static int Zscore(string s, int index, int score)
@@ -83,7 +83,7 @@
         static string Zstring(string s, int index)
         {
             if (index == s.Length - 1) return s;
-            else if (s[index+1] == 'V' ||  s[index+1] == 'W')
+            else if (s[index + 1] == 'V' || s[index + 1] == 'W')
             {
                 string newString = null;
                 newString = X(s, index);
@@ -93,7 +93,7 @@
             {
                 return s;
             }
-            
+
         }
     }
 }
