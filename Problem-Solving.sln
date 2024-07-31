@@ -5,11 +5,15 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Summation", "Summation\Summation.csproj", "{19EFEE50-DD28-4FA1-815C-82173929A41A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Word", "Reverse Word\Reverse Word.csproj", "{E2E931C2-712A-4F72-BC4A-013457D71DF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse Word", "Reverse Word\Reverse Word.csproj", "{E2E931C2-712A-4F72-BC4A-013457D71DF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Score", "String Score\String Score.csproj", "{396387AF-F9D7-400F-99D9-2938411B40EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Score", "String Score\String Score.csproj", "{396387AF-F9D7-400F-99D9-2938411B40EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Split", "Max Split\Max Split.csproj", "{67F39EBC-1A77-4D3C-A658-13661233A916}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Max Split", "Max Split\Max Split.csproj", "{67F39EBC-1A77-4D3C-A658-13661233A916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum", "Two Sum\Two Sum.csproj", "{CBE951AE-73A2-402E-9EE6-12AFC539583B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{5B9F4F97-C03C-4CB5-9D84-4085008BB6C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{67F39EBC-1A77-4D3C-A658-13661233A916}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67F39EBC-1A77-4D3C-A658-13661233A916}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67F39EBC-1A77-4D3C-A658-13661233A916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE951AE-73A2-402E-9EE6-12AFC539583B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE951AE-73A2-402E-9EE6-12AFC539583B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE951AE-73A2-402E-9EE6-12AFC539583B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE951AE-73A2-402E-9EE6-12AFC539583B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B9F4F97-C03C-4CB5-9D84-4085008BB6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9F4F97-C03C-4CB5-9D84-4085008BB6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9F4F97-C03C-4CB5-9D84-4085008BB6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9F4F97-C03C-4CB5-9D84-4085008BB6C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
