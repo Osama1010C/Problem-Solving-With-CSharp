@@ -11,13 +11,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Score", "String Scor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Max Split", "Max Split\Max Split.csproj", "{67F39EBC-1A77-4D3C-A658-13661233A916}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two Sum", "Two Sum\Two Sum.csproj", "{CBE951AE-73A2-402E-9EE6-12AFC539583B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two Sum", "Two Sum\Two Sum.csproj", "{CBE951AE-73A2-402E-9EE6-12AFC539583B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{5B9F4F97-C03C-4CB5-9D84-4085008BB6C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{5B9F4F97-C03C-4CB5-9D84-4085008BB6C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roman To Integer", "Roman To Integer\Roman To Integer.csproj", "{6F355115-5B24-4DBD-9A5B-D14F64E64322}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Roman To Integer", "Roman To Integer\Roman To Integer.csproj", "{6F355115-5B24-4DBD-9A5B-D14F64E64322}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common Prefix", "Common Prefix\Common Prefix.csproj", "{C7AB38BF-8E7B-489D-92CE-0EAE92772192}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common Prefix", "Common Prefix\Common Prefix.csproj", "{C7AB38BF-8E7B-489D-92CE-0EAE92772192}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Parentheses", "Valid Parentheses\Valid Parentheses.csproj", "{2B6573C6-FD6F-4613-8373-208A0158F3E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{C7AB38BF-8E7B-489D-92CE-0EAE92772192}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7AB38BF-8E7B-489D-92CE-0EAE92772192}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7AB38BF-8E7B-489D-92CE-0EAE92772192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B6573C6-FD6F-4613-8373-208A0158F3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6573C6-FD6F-4613-8373-208A0158F3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6573C6-FD6F-4613-8373-208A0158F3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6573C6-FD6F-4613-8373-208A0158F3E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
