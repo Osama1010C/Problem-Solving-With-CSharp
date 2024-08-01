@@ -22,6 +22,17 @@
                     nums[index++] = nums[i];
                 }
             }
+            // i = 0, index = 0 |  -> 0 0 1 1 1 2 2 3 3 4
+            // i = 1, index = 0 | nums[0] = nums[0] -> 0 0 1 1 1 2 2 3 3 4 || index++
+            // i = 2, index = 1 |  -> 0 0 1 1 1 2 2 3 3 4
+            // i = 3, index = 1 |  -> 0 0 1 1 1 2 2 3 3 4
+            // i = 4, index = 1 | nums[1] = nums[4] -> 0 1 1 1 1 2 2 3 3 4 || index++
+            // i = 5, index = 2 |  -> 0 1 1 1 1 2 2 3 3 4
+            // i = 6, index = 2 | nums[2] = nums[6] -> 0 1 2 1 1 2 2 3 3 4 || index++
+            // i = 7, index = 3 |  -> 0 1 2 1 1 2 2 3 3 4
+            // i = 8, index = 3 | nums[3] = nums[8] -> 0 1 2 3 1 2 2 3 3 4 || index++
+            // i = 9, index = 4 | nums[4] = nums[9] -> 0 1 2 3 4 2 2 3 3 4 || index++
+            //index = 5
 
             // Fill the rest of the array with 0 or another placeholder
             for (int i = index; i < nums.Length; i++)
