@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replace Word", "Replace Wor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encrypt & Decrypt Message", "Encrypt & Decrypt Message\Encrypt & Decrypt Message.csproj", "{812624B5-50A6-4375-A4B5-CB80A6558B2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparison", "Comparison\Comparison.csproj", "{E0F357F8-C269-4C10-B59A-00205ACA3308}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{812624B5-50A6-4375-A4B5-CB80A6558B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{812624B5-50A6-4375-A4B5-CB80A6558B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{812624B5-50A6-4375-A4B5-CB80A6558B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0F357F8-C269-4C10-B59A-00205ACA3308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F357F8-C269-4C10-B59A-00205ACA3308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F357F8-C269-4C10-B59A-00205ACA3308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F357F8-C269-4C10-B59A-00205ACA3308}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
