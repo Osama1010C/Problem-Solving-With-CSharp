@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove Duplicates from Sort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "URL", "URL\URL.csproj", "{4EA63D36-3E88-4C25-8B75-B407744CA31F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Words", "New Words\New Words.csproj", "{05E8ED64-1457-4F54-92AE-5AB800280A74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{4EA63D36-3E88-4C25-8B75-B407744CA31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EA63D36-3E88-4C25-8B75-B407744CA31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EA63D36-3E88-4C25-8B75-B407744CA31F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E8ED64-1457-4F54-92AE-5AB800280A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E8ED64-1457-4F54-92AE-5AB800280A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E8ED64-1457-4F54-92AE-5AB800280A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E8ED64-1457-4F54-92AE-5AB800280A74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
