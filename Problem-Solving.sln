@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anton and Danik", "Anton an
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Translation", "Translation\Translation.csproj", "{9C345DFA-523C-4AE6-B15E-9CBCB5FAC7D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tram", "Tram\Tram.csproj", "{4AA64D99-D2F4-4AF8-8250-0EB6FCB28F95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{9C345DFA-523C-4AE6-B15E-9CBCB5FAC7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C345DFA-523C-4AE6-B15E-9CBCB5FAC7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C345DFA-523C-4AE6-B15E-9CBCB5FAC7D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AA64D99-D2F4-4AF8-8250-0EB6FCB28F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AA64D99-D2F4-4AF8-8250-0EB6FCB28F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AA64D99-D2F4-4AF8-8250-0EB6FCB28F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AA64D99-D2F4-4AF8-8250-0EB6FCB28F95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
