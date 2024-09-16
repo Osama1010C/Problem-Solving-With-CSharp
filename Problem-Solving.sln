@@ -51,9 +51,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "George and Accommodation", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Magnets", "Magnets\Magnets.csproj", "{6632BCBE-CC03-4173-A9C0-2F339D08DBAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presents", "Presents\Presents.csproj", "{AFAAAE14-AA3E-4B5A-A62C-1605508E8687}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Presents", "Presents\Presents.csproj", "{AFAAAE14-AA3E-4B5A-A62C-1605508E8687}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theatre Square", "Theatre Square\Theatre Square.csproj", "{6CE20586-F53D-4B16-8836-C9950562AE18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Theatre Square", "Theatre Square\Theatre Square.csproj", "{6CE20586-F53D-4B16-8836-C9950562AE18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drinks", "Drinks\Drinks.csproj", "{58A9BD04-93BB-4A35-929A-C9E3387DE1CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{6CE20586-F53D-4B16-8836-C9950562AE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CE20586-F53D-4B16-8836-C9950562AE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CE20586-F53D-4B16-8836-C9950562AE18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A9BD04-93BB-4A35-929A-C9E3387DE1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A9BD04-93BB-4A35-929A-C9E3387DE1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A9BD04-93BB-4A35-929A-C9E3387DE1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A9BD04-93BB-4A35-929A-C9E3387DE1CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
