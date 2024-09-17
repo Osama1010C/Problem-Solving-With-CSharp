@@ -63,6 +63,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is your horseshoe on the ot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hulk", "Hulk\Hulk.csproj", "{1B80917E-DFC5-4A48-ABC9-7F5BAA35FEBC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisibility Problem", "Divisibility Problem\Divisibility Problem.csproj", "{8A485978-EF86-4430-82C8-3AD628C4BFBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{1B80917E-DFC5-4A48-ABC9-7F5BAA35FEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B80917E-DFC5-4A48-ABC9-7F5BAA35FEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B80917E-DFC5-4A48-ABC9-7F5BAA35FEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A485978-EF86-4430-82C8-3AD628C4BFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A485978-EF86-4430-82C8-3AD628C4BFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A485978-EF86-4430-82C8-3AD628C4BFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A485978-EF86-4430-82C8-3AD628C4BFBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
