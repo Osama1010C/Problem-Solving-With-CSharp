@@ -45,6 +45,5 @@
                 result[i] = false;        
             return result;
         }
-
     }
 }
