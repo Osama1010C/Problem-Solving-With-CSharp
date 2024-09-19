@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anton and Polyhedrons", "An
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Games", "Games\Games.csproj", "{D7FD82E6-03B4-4750-BD08-C5F1055BB54A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candies and Two Sisters", "Candies and Two Sisters\Candies and Two Sisters.csproj", "{C6D27822-A645-4A2B-97F1-F53C409BB724}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{D7FD82E6-03B4-4750-BD08-C5F1055BB54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7FD82E6-03B4-4750-BD08-C5F1055BB54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7FD82E6-03B4-4750-BD08-C5F1055BB54A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6D27822-A645-4A2B-97F1-F53C409BB724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D27822-A645-4A2B-97F1-F53C409BB724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D27822-A645-4A2B-97F1-F53C409BB724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D27822-A645-4A2B-97F1-F53C409BB724}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
