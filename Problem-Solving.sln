@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Games", "Games\Games.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Candies and Two Sisters", "Candies and Two Sisters\Candies and Two Sisters.csproj", "{C6D27822-A645-4A2B-97F1-F53C409BB724}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fox And Snake", "Fox And Snake\Fox And Snake.csproj", "{3AD28028-69CA-400C-A8B3-F6DD7591C7F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{C6D27822-A645-4A2B-97F1-F53C409BB724}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6D27822-A645-4A2B-97F1-F53C409BB724}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6D27822-A645-4A2B-97F1-F53C409BB724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AD28028-69CA-400C-A8B3-F6DD7591C7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD28028-69CA-400C-A8B3-F6DD7591C7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD28028-69CA-400C-A8B3-F6DD7591C7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD28028-69CA-400C-A8B3-F6DD7591C7F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
