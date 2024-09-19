@@ -8,7 +8,6 @@
             string[] result = line.Split(' ');
             int r = int.Parse(result[0]);
             int c = int.Parse(result[1]);
-            int[,] s = new int[r, c];
 
             string shape1 = ""; // ###
             string shape2 = ""; // ..#
