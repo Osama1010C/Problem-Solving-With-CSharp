@@ -73,7 +73,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrival of the General", "A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Insomnia cure", "Insomnia cure\Insomnia cure.csproj", "{BE22A49D-4D9D-48C3-9DC3-6F4A02CC0CCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anton and Letters", "Anton and Letters\Anton and Letters.csproj", "{CBF1D623-1B6B-4FE7-AEE9-B9581D65F2A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anton and Letters", "Anton and Letters\Anton and Letters.csproj", "{CBF1D623-1B6B-4FE7-AEE9-B9581D65F2A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anton and Polyhedrons", "Anton and Polyhedrons\Anton and Polyhedrons.csproj", "{9DAC6E5E-A39C-4A5C-8F71-2382BDA8FB08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +227,10 @@ Global
 		{CBF1D623-1B6B-4FE7-AEE9-B9581D65F2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBF1D623-1B6B-4FE7-AEE9-B9581D65F2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBF1D623-1B6B-4FE7-AEE9-B9581D65F2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DAC6E5E-A39C-4A5C-8F71-2382BDA8FB08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAC6E5E-A39C-4A5C-8F71-2382BDA8FB08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAC6E5E-A39C-4A5C-8F71-2382BDA8FB08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAC6E5E-A39C-4A5C-8F71-2382BDA8FB08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
