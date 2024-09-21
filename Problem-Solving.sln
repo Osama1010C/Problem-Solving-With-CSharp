@@ -85,6 +85,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fox And Snake", "Fox And Sn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amusing Joke", "Amusing Joke\Amusing Joke.csproj", "{6A88FA32-16F7-43E8-B544-6973890FFE09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of Round Numbers", "Sum of Round Numbers\Sum of Round Numbers.csproj", "{C3E7C766-D053-4F25-9CE4-405962187348}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{6A88FA32-16F7-43E8-B544-6973890FFE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A88FA32-16F7-43E8-B544-6973890FFE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A88FA32-16F7-43E8-B544-6973890FFE09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E7C766-D053-4F25-9CE4-405962187348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E7C766-D053-4F25-9CE4-405962187348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E7C766-D053-4F25-9CE4-405962187348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E7C766-D053-4F25-9CE4-405962187348}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
