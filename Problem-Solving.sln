@@ -83,13 +83,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Candies and Two Sisters", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fox And Snake", "Fox And Snake\Fox And Snake.csproj", "{3AD28028-69CA-400C-A8B3-F6DD7591C7F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amusing Joke", "Amusing Joke\Amusing Joke.csproj", "{6A88FA32-16F7-43E8-B544-6973890FFE09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Amusing Joke", "Amusing Joke\Amusing Joke.csproj", "{6A88FA32-16F7-43E8-B544-6973890FFE09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of Round Numbers", "Sum of Round Numbers\Sum of Round Numbers.csproj", "{C3E7C766-D053-4F25-9CE4-405962187348}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of Round Numbers", "Sum of Round Numbers\Sum of Round Numbers.csproj", "{C3E7C766-D053-4F25-9CE4-405962187348}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Police Recruits", "Police Recruits\Police Recruits.csproj", "{5D7B5A42-4BF5-4E10-9EAE-90E8BE955CB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Police Recruits", "Police Recruits\Police Recruits.csproj", "{5D7B5A42-4BF5-4E10-9EAE-90E8BE955CB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The New Year Meeting Friends", "The New Year Meeting Friends\The New Year Meeting Friends.csproj", "{0CBFAF13-43DD-4910-ABC7-C1148511F9F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The New Year Meeting Friends", "The New Year Meeting Friends\The New Year Meeting Friends.csproj", "{0CBFAF13-43DD-4910-ABC7-C1148511F9F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New Year and Hurry", "New Year and Hurry\New Year and Hurry.csproj", "{F80D553E-37D9-4DE3-A5D9-6F1329519D6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -273,6 +275,10 @@ Global
 		{0CBFAF13-43DD-4910-ABC7-C1148511F9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CBFAF13-43DD-4910-ABC7-C1148511F9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CBFAF13-43DD-4910-ABC7-C1148511F9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80D553E-37D9-4DE3-A5D9-6F1329519D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80D553E-37D9-4DE3-A5D9-6F1329519D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80D553E-37D9-4DE3-A5D9-6F1329519D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80D553E-37D9-4DE3-A5D9-6F1329519D6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
