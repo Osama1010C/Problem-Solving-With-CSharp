@@ -95,7 +95,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "New Year and Hurry", "New Y
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Soft Drinking", "Soft Drinking\Soft Drinking.csproj", "{DBF58EF3-71CB-4767-99EB-9CC82E8BD9B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buy a Shovel", "Buy a Shovel\Buy a Shovel.csproj", "{588B0161-9C4B-4033-8AE4-988A0AE8E350}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buy a Shovel", "Buy a Shovel\Buy a Shovel.csproj", "{588B0161-9C4B-4033-8AE4-988A0AE8E350}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum", "Sum\Sum.csproj", "{1DBE689C-3B2D-4B68-B08F-20429D3EC14D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +293,10 @@ Global
 		{588B0161-9C4B-4033-8AE4-988A0AE8E350}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{588B0161-9C4B-4033-8AE4-988A0AE8E350}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{588B0161-9C4B-4033-8AE4-988A0AE8E350}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DBE689C-3B2D-4B68-B08F-20429D3EC14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DBE689C-3B2D-4B68-B08F-20429D3EC14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DBE689C-3B2D-4B68-B08F-20429D3EC14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DBE689C-3B2D-4B68-B08F-20429D3EC14D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
