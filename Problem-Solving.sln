@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vasya the Hipster", "Vasya 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restoring Three Numbers", "Restoring Three Numbers\Restoring Three Numbers.csproj", "{BE07E2F2-84A0-4F90-9BE4-B3C04070A0C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YES or YES", "YES or YES\YES or YES.csproj", "{D2703699-1775-4409-A264-218443F052ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{BE07E2F2-84A0-4F90-9BE4-B3C04070A0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE07E2F2-84A0-4F90-9BE4-B3C04070A0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE07E2F2-84A0-4F90-9BE4-B3C04070A0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2703699-1775-4409-A264-218443F052ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2703699-1775-4409-A264-218443F052ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2703699-1775-4409-A264-218443F052ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2703699-1775-4409-A264-218443F052ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
