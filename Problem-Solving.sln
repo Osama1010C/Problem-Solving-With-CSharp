@@ -99,13 +99,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Buy a Shovel", "Buy a Shove
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum", "Sum\Sum.csproj", "{1DBE689C-3B2D-4B68-B08F-20429D3EC14D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vasya the Hipster", "Vasya the Hipster\Vasya the Hipster.csproj", "{33CCB7C0-228C-4C44-9BD0-EF7381BF4EDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vasya the Hipster", "Vasya the Hipster\Vasya the Hipster.csproj", "{33CCB7C0-228C-4C44-9BD0-EF7381BF4EDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restoring Three Numbers", "Restoring Three Numbers\Restoring Three Numbers.csproj", "{BE07E2F2-84A0-4F90-9BE4-B3C04070A0C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Restoring Three Numbers", "Restoring Three Numbers\Restoring Three Numbers.csproj", "{BE07E2F2-84A0-4F90-9BE4-B3C04070A0C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YES or YES", "YES or YES\YES or YES.csproj", "{D2703699-1775-4409-A264-218443F052ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YES or YES", "YES or YES\YES or YES.csproj", "{D2703699-1775-4409-A264-218443F052ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Again Twenty Five!", "Again Twenty Five!\Again Twenty Five!.csproj", "{56019881-94AB-4F8E-B494-970E659461FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Again Twenty Five!", "Again Twenty Five!\Again Twenty Five!.csproj", "{56019881-94AB-4F8E-B494-970E659461FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Smallest", "Remove Smallest\Remove Smallest.csproj", "{45FFB4F9-C7DB-4ECE-B5D5-115D2D9C8561}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -321,6 +323,10 @@ Global
 		{56019881-94AB-4F8E-B494-970E659461FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56019881-94AB-4F8E-B494-970E659461FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56019881-94AB-4F8E-B494-970E659461FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45FFB4F9-C7DB-4ECE-B5D5-115D2D9C8561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FFB4F9-C7DB-4ECE-B5D5-115D2D9C8561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FFB4F9-C7DB-4ECE-B5D5-115D2D9C8561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FFB4F9-C7DB-4ECE-B5D5-115D2D9C8561}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
